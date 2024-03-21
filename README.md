@@ -1,10 +1,14 @@
 ### TIC-TAC-TOE XGame
 
+<div align="center">
+  <img src="https://media.giphy.com/media/MeuJQJ6gVLyjMNfPqL/giphy.gif" alt="Tic-Tac-Toe Animation">
+</div>
+
 A classic Tic-Tac-Toe game with a modern twist, built using HTML, CSS, and JavaScript.
 
 #### Interface
 
-Experience the fun of TIC-TAC-TOE XGame at [TIC-TAC-TOE XGAME](https://adi-gitx.github.io/TIC-TAC-TOE-XGAME/):
+Experience the fun of TIC-TAC-TOE XGame at [TIC-TAC-TOE XGAME](https://tic-tac-toe-xgame.vercel.app/):
 
 - Clean and intuitive design for easy gameplay.
 - Two-player mode for challenging your friends.
