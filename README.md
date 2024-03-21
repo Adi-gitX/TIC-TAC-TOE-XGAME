@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/MeuJQJ6gVLyjMNfPqL/giphy.gif" alt="Tic-Tac-Toe Animation">
 </div>
 
+<h1 align="center">TIC-TAC-TOE XGame</h1>
+
 A classic Tic-Tac-Toe game with a modern twist, built using HTML, CSS, and JavaScript.
 
 #### Interface
