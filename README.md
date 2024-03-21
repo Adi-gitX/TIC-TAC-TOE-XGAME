@@ -1,7 +1,7 @@
 ### TIC-TAC-TOE XGame
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/MeuJQJ6gVLyjMNfPqL/giphy.gif](https://user-images.githubusercontent.com/56839789/146692223-9541dc0f-a5c4-46b7-9700-9fede139dffb.gif)" alt="Tic-Tac-Toe Animation">
+  <img src="https://user-images.githubusercontent.com/56839789/146692223-9541dc0f-a5c4-46b7-9700-9fede139dffb.gif" alt="Tic-Tac-Toe Animation">
 </div>
 
 <h1 align="center">TIC-TAC-TOE XGame</h1>
